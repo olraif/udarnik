@@ -1,0 +1,222 @@
+[
+  {
+    "id": "after1",
+    "word": "квартал",
+    "answer": "квартАл",
+    "stress": [
+      5
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after2",
+    "word": "шарфы",
+    "answer": "шАрфы",
+    "stress": [
+      1
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after3",
+    "word": "жалюзи",
+    "answer": "жалюзИ",
+    "stress": [
+      5
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after4",
+    "word": "недуг",
+    "answer": "недУг",
+    "stress": [
+      3
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after5",
+    "word": "партер",
+    "answer": "партЕр",
+    "stress": [
+      4
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after6",
+    "word": "краны",
+    "answer": "крАны",
+    "stress": [
+      2
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after7",
+    "word": "сверлит",
+    "answer": "сверлИт",
+    "stress": [
+      5
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after8",
+    "word": "клала",
+    "answer": "клАла",
+    "stress": [
+      2
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after9",
+    "word": "позвонит",
+    "answer": "позвонИт",
+    "stress": [
+      6
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after10",
+    "word": "повторит",
+    "answer": "повторИт",
+    "stress": [
+      6
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after11",
+    "word": "приняла",
+    "answer": "принялА",
+    "stress": [
+      6
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after12",
+    "word": "кашлянуть",
+    "answer": "кАшлянуть",
+    "stress": [
+      1
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after13",
+    "word": "сливовый",
+    "answer": "слИвовый",
+    "stress": [
+      2
+    ],
+    "category": "Прилагательные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after14",
+    "word": "мозаичный",
+    "answer": "мозаИчный",
+    "stress": [
+      4
+    ],
+    "category": "Прилагательные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after15",
+    "word": "красивее",
+    "answer": "красИвее",
+    "stress": [
+      4
+    ],
+    "category": "Прилагательные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": "платье"
+  },
+  {
+    "id": "after16",
+    "word": "верна",
+    "answer": "вернА",
+    "stress": [
+      4
+    ],
+    "category": "Прилагательные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after17",
+    "word": "понявший",
+    "answer": "понЯвший",
+    "stress": [
+      3
+    ],
+    "category": "Другие формы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after18",
+    "word": "принятый",
+    "answer": "прИнятый",
+    "stress": [
+      2
+    ],
+    "category": "Другие формы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after19",
+    "word": "поняв",
+    "answer": "понЯв",
+    "stress": [
+      3
+    ],
+    "category": "Другие формы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "after20",
+    "word": "надолго",
+    "answer": "надОлго",
+    "stress": [
+      3
+    ],
+    "category": "Другие формы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  }
+]

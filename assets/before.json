@@ -1,0 +1,222 @@
+[
+  {
+    "id": "before1",
+    "word": "каталог",
+    "answer": "каталОг",
+    "stress": [
+      5
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before2",
+    "word": "торты",
+    "answer": "тОрты",
+    "stress": [
+      1
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before3",
+    "word": "документ",
+    "answer": "докумЕнт",
+    "stress": [
+      5
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before4",
+    "word": "досуг",
+    "answer": "досУг",
+    "stress": [
+      3
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before5",
+    "word": "портфель",
+    "answer": "портфЕль",
+    "stress": [
+      5
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before6",
+    "word": "средства",
+    "answer": "срЕдства",
+    "stress": [
+      2
+    ],
+    "category": "Существительные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before7",
+    "word": "звонит",
+    "answer": "звонИт",
+    "stress": [
+      4
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before8",
+    "word": "начала",
+    "answer": "началА",
+    "stress": [
+      5
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": "она"
+  },
+  {
+    "id": "before9",
+    "word": "черпать",
+    "answer": "чЕрпать",
+    "stress": [
+      1
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before10",
+    "word": "вручит",
+    "answer": "вручИт",
+    "stress": [
+      4
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before11",
+    "word": "заняла",
+    "answer": "занялА",
+    "stress": [
+      5
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before12",
+    "word": "клеить",
+    "answer": "клЕить",
+    "stress": [
+      2
+    ],
+    "category": "Глаголы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before13",
+    "word": "кухонный",
+    "answer": "кУхонный",
+    "stress": [
+      1
+    ],
+    "category": "Прилагательные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before14",
+    "word": "оптовый",
+    "answer": "оптОвый",
+    "stress": [
+      3
+    ],
+    "category": "Прилагательные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before15",
+    "word": "значимый",
+    "answer": "знАчимый",
+    "stress": [
+      2
+    ],
+    "category": "Прилагательные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before16",
+    "word": "ловка",
+    "answer": "ловкА",
+    "stress": [
+      4
+    ],
+    "category": "Прилагательные",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before17",
+    "word": "начавший",
+    "answer": "начАвший",
+    "stress": [
+      3
+    ],
+    "category": "Другие формы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before18",
+    "word": "начатый",
+    "answer": "нАчатый",
+    "stress": [
+      1
+    ],
+    "category": "Другие формы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before19",
+    "word": "начав",
+    "answer": "начАв",
+    "stress": [
+      3
+    ],
+    "category": "Другие формы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  },
+  {
+    "id": "before20",
+    "word": "вовремя",
+    "answer": "вОвремя",
+    "stress": [
+      1
+    ],
+    "category": "Другие формы",
+    "source": "НИР, приложения Б/В и Д; ключ сопоставлен с навигатором ФИПИ 2026, с. 1–5. https://doc.fipi.ru/navigator-podgotovki/navigator-ege/2026/ru-1-fonetika.pdf",
+    "example": ""
+  }
+]
